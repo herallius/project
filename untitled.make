@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-gcc -Wall -std=c99 -D _POSIX_C_SOURCE=200809L -Werror -g cam_test.c -o cam_test
